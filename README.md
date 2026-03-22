@@ -179,8 +179,8 @@ For questions, issues, or contributions, please open an issue on the GitHub repo
 
 ---
 
-**Built with ❤️ using Python, Flask, and TensorFlow**
+**Built with using Python, Flask, and TensorFlow**
 
 ---
 
-**Made with 💖 by Amarnath** 
+**Made with 💖 by Chaiti** 
